@@ -1,5 +1,5 @@
-# Authentication
-A template that I can follow to implement authentication on specific urls.
+# Authentication with Auth 0
+A template that I can follow to implement authentication on specific urls. This is authentication using Auth0.
 
 ## Setup
 1. Clone
